@@ -93,10 +93,8 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 
 ---
 
-# 📊 GitHub Statistics
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=GitHub+Stats" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=GitHub+Status" />
 </h2>
 
 <div align="center">
@@ -106,7 +104,6 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 
 <div align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbeldires&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=shanbeldires&theme=radical" />
 </div>
 
 ---
