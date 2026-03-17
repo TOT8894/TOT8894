@@ -95,28 +95,18 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 
 # 📊 GitHub Statistics
 
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=25&center=true&vCenter=true&width=650&height=50&color=4C9AFF&duration=3000&lines=GitHub+Stats" />
+</h2>
+
 <div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shanbeldires&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanbeldires&theme=transparent&count_private=true&border_radius=10" />
+</div>
 
-<table>
-<tr>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api?username=shanbeldires&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="250" />
-
-</td>
-<td>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shanbeldires&theme=transparent&hide_border=true" height="250" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbeldires&layout=compact&theme=transparent&hide_border=true" height="250" />
-
-</td>
-</tr>
-</table>
-
+<div align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbeldires&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
+  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=shanbeldires&theme=radical" />
 </div>
 
 ---
