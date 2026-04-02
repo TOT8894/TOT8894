@@ -1,3 +1,8 @@
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=TOT8894)
+
+---
 <div align="center">
   <h3>Visitor Count</h3>
   <img src="https://profile-counter.deno.dev/:TOT8894:/count.svg" />
