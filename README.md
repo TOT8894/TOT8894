@@ -103,12 +103,12 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 </h2>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TOT8894&show_icons=true&theme=transparent&count_private=true&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=TOT8894&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=TOT8894&theme=transparent&count_private=true&border_radius=10" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOT8894&layout=donut&theme=transparent&langs_count=8&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TOT8894&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
 </div>
 
 ---
