@@ -1,6 +1,6 @@
 <div align="center">
   <h3>Visitor Count</h3>
-  <img src="https://profile-counter.deno.dev/:shanbeldires:/count.svg" />
+  <img src="https://profile-counter.deno.dev/:shanbel8894:/count.svg" />
 </div>
 
 <div align="center">
@@ -98,12 +98,12 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 </h2>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shanbeldires&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanbeldires&theme=transparent&count_private=true&border_radius=10" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=shanbel8894&show_icons=true&theme=transparent&count_private=true&hide_border=false" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=shanbel8894&theme=transparent&count_private=true&border_radius=10" />
 </div>
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbeldires&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shanbel8894&layout=donut&theme=transparent&langs_count=8&hide_border=false" />
 </div>
 
 ---
@@ -112,7 +112,7 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanbeldires&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shanbel8894&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -122,7 +122,7 @@ I enjoy strengthening my **algorithmic thinking and problem solving skills** thr
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shanbeldires&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shanbel8894&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
